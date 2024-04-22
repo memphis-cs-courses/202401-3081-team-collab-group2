@@ -1,8 +1,7 @@
 class PagesController < ApplicationController
   def index
   end
-end
 
-def leahcb05
-
+  def leahcb05
+  end
 end
