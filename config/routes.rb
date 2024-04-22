@@ -8,4 +8,6 @@ Rails.application.routes.draw do
   get 'lnuesalip', to: 'pages#lnuesalip', as: 'lnuesalip'
 
   root 'pages#index'
+
+  get 'georgecancino', to: 'pages#georgecancino', as: 'georgecancino'
 end
