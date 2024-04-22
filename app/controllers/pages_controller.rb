@@ -4,4 +4,7 @@ class PagesController < ApplicationController
 
   def squillybz1
   end
+
+  def lnuesalip
+  end
 end
