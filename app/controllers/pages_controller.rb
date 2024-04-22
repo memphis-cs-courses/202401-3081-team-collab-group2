@@ -4,4 +4,10 @@ class PagesController < ApplicationController
 
   def georgecancino
   end
+
+  def squillybz1
+  end
+
+  def leahcb05
+  end
 end
